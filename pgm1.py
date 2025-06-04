@@ -1,3 +1,3 @@
-fruits = ['Apple','Banana','Cherry','Dates','orange']
-print(fruits[2].remove())
-print(fruits)
+min = int(input("Enter the time in minutes:"))
+sec = min*60
+print("minutes in seconds:",sec)
